@@ -1,10 +1,18 @@
 # Grocery Booking
 
+Grocery Booking service with Admin APIs for managing grocery items and their inventory and user APIs to view grocery items and placing an orders for the same.
+
 ## Pre-requisites
+
+1. Docker
+2. npm
+3. Postman
+4. PostgreSQL DB
 
 ## Running The Server
 
-### Build Docker Image
+1. Check the src/setup/database/app-data-source.ts file for postgres DB connection config
+2. Build the docker image and run.
 
 ## Scope For Improvement
 
